@@ -1,4 +1,5 @@
 name: Ventas - CI y CD
+run-name: Ejecución de CI/CD - ${{ github.actor }}
 
 on:
   push:
